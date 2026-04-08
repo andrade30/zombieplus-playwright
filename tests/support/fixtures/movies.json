@@ -1,0 +1,82 @@
+{
+    "create": {
+        "title": "Guerra Mundial Z",
+        "overview": "Um ex-investigador da ONU percorre o mundo tentando conter uma pandemia que transforma humanos em zumbis.",
+        "company": "Paramount Pictures",
+        "release_year": 2013,
+        "featured": false,
+        "cover": "/images/guerra_mundial_z.png"
+    },
+    "exterminio": {
+        "title": "Extermínio",
+        "overview": "Após um vírus devastador se espalhar pelo Reino Unido, sobreviventes tentam escapar de pessoas infectadas extremamente agressivas.",
+        "company": "Fox Searchlight Pictures",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "/images/exterminio.png"
+    },
+    "exterminio_2": {
+        "title": "Extermínio 2",
+        "overview": "Seis meses após o surto inicial, o exército tenta reconstruir a sociedade, mas o vírus retorna com força total.",
+        "company": "20th Century Fox",
+        "release_year": 2007,
+        "featured": false,
+        "cover": "/images/exterminio_2.png"
+    },
+    "madrugada_dos_mortos": {
+        "title": "Madrugada dos Mortos",
+        "overview": "Sobreviventes se refugiam em um shopping enquanto enfrentam um apocalipse zumbi.",
+        "company": "Universal Pictures",
+        "release_year": 2004,
+        "featured": false,
+        "cover": "/images/madrugada_dos_mortos.png"
+    },
+    "zumbilandia": {
+        "title": "Zumbilândia",
+        "overview": "Um grupo improvável cruza os EUA enfrentando zumbis com humor e regras próprias de sobrevivência.",
+        "company": "Columbia Pictures",
+        "release_year": 2009,
+        "featured": false,
+        "cover": "/images/zumbilandia.png"
+    },
+    "zumbilandia_atire_duas_vezes": {
+        "title": "Zumbilândia: Atire Duas Vezes",
+        "overview": "Os sobreviventes continuam sua jornada enfrentando novos tipos de zumbis.",
+        "company": "Columbia Pictures",
+        "release_year": 2019,
+        "featured": false,
+        "cover": "/images/zumbilandia_2.png"
+    },
+    "todo_mundo_quase_morto": {
+        "title": "Todo Mundo Quase Morto",
+        "overview": "Um homem comum tenta reorganizar sua vida durante um apocalipse zumbi em Londres.",
+        "company": "Universal Pictures",
+        "release_year": 2004,
+        "featured": false,
+        "cover": "/images/todo_mundo_quase_morto.png"
+    },
+    "rec": {
+        "title": "REC",
+        "overview": "Uma repórter fica presa em um prédio onde uma infecção transforma moradores em criaturas violentas.",
+        "company": "Filmax",
+        "release_year": 2007,
+        "featured": false,
+        "cover": "/images/rec.png"
+    },
+    "invasao_zumbi": {
+        "title": "Invasão Zumbi",
+        "overview": "Passageiros de um trem lutam para sobreviver a um surto de zumbis na Coreia do Sul.",
+        "company": "Next Entertainment World",
+        "release_year": 2016,
+        "featured": false,
+        "cover": "/images/invasao_zumbi.png"
+    },
+    "eu_sou_a_lenda": {
+        "title": "Eu Sou a Lenda",
+        "overview": "Um cientista tenta sobreviver em um mundo devastado por uma praga que transforma humanos em criaturas.",
+        "company": "Warner Bros. Pictures",
+        "release_year": 2007,
+        "featured": false,
+        "cover": "/images/eu_sou_a_lenda.png"
+    }
+}
